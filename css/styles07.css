@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+table{
+	
+	margin:0px auto;
+	background-image:url(../images/bei.jpg);
+	text-align:center;
+    vertical-align:middle;
+	}
+.t{
+	color:#00F}
+.w{
+	color:#C60}
+.o{
+	color:red}
+		
+		
